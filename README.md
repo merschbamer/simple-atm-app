@@ -1,7 +1,7 @@
 # Getting Started
 
 ### What
-This is a simple interface app for an ATM developed in Java. The application reads user inputs from the command line and executes an action based on the users input.
+This is a simple app for an ATM interface developed using Java / Spring Boot. The application reads user inputs from the command line and executes an action based on the users input.
 
 ### Prerequisites
 In order to build and run the app you must have the following installed on your machine:

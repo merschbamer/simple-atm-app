@@ -33,7 +33,7 @@ public class AtmCommandLineController {
     public void start() {
         Integer menuSelection = null;
         while (menuSelection == null) {
-            displayMessage("Hi, welcome to the ATM what would you like to do? \n1. Login \n2. Exit");
+            displayMessage("Hi, welcome to the ATM what would you like to do? (Enter number from menu below) \n1. Login \n2. Exit");
             try {
                 int userInput = Integer.parseInt(scanner.nextLine());
                 validator.validateSelection(userInput, 1, 2);
