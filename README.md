@@ -27,4 +27,4 @@ Run tests using the following command:
 
 ### Run
 Run the application using the following command from within the target directory: 
-```java -jar AtmApplication.jar```
+```java -jar atm-0.0.1-SNAPSHOT.jar```
